@@ -1,1 +1,1 @@
-print("hello world") kkkk olá
+print("hello world")
