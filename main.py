@@ -1,4 +1,4 @@
-1- Faça um programa que receba do usuário um número inteiro e imprima na tela a tabuada 
+Faça um programa que receba do usuário um número inteiro e imprima na tela a tabuada 
 desse número (em colunas).
 
 
