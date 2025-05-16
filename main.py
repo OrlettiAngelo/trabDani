@@ -12,3 +12,5 @@ while cont<=10:
     resultado = num * cont
     print('%d vezes %d = %d\n' %(num,cont,resultado))
     cont = cont + 1
+
+    # fará um calculo!
